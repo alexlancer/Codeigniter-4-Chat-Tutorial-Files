@@ -2,7 +2,7 @@
 This repository contains files only related to the youtube tutorial. 
 
 ## The whole project files can be found here
-Add link here
+https://github.com/alexlancer/Codeigniter-4-Chat-Tutorial
 
 ## YouTube Tutorial Link
-Add link here
+https://www.youtube.com/watch?v=9qIIjv17IgQ
